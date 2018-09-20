@@ -1,32 +1,14 @@
 {
   "todoList": [
     {
+      "id": "87656",
+      "todo": "Learn vue js",
+      "completed": false
+    },
+    {
+      "id": "18423",
       "todo": "Learn Nuxt js",
-      "id": "53586"
-    },
-    {
-      "todo": "Make a todo app with Nuxt",
-      "id": "63989"
-    },
-    {
-      "todo": "Add styling to the app",
-      "id": "45972"
-    },
-    {
-      "todo": "Explore about pug",
-      "id": "72676"
-    },
-    {
-      "todo": "Maybe gonna learn Vuex",
-      "id": "44954"
-    },
-    {
-      "todo": "Fix persisten bug on this very application",
-      "id": "26388"
-    },
-    {
-      "todo": "Done fix the bug",
-      "id": "74249"
+      "completed": false
     }
   ]
 }
